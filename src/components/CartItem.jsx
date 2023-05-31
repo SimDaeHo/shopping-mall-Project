@@ -21,7 +21,7 @@ export default function CartItem({ product, product: { id, image, title, option,
         <div className="basis-3/5">
           <p className="text-lg">{title}</p>
           <p className="text-xl font-bold text-brand">{option}</p>
-          <p>{price}원</p>
+          <p>₩{price}</p>
         </div>
         <div className="text-2xl flex items-center">
           <AiOutlineMinusSquare className={ICON_CLASS} onClick={handleMinus} />
