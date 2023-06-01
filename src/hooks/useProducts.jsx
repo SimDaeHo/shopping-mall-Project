@@ -6,7 +6,7 @@ export default function useProducts() {
 
   const productsQuery = useQuery(["products"], fetchProducts, { staleTime: 1000 * 60 });
 
-  const addProduct = useMutation((product, url) => addNewProduct(product, url), {
+  const addProduct = useMutation(({ product, url }) => addNewProduct(product, url), {
     onSuccess: () => queryClient.invalidateQueries(["products"]),
   });
 
