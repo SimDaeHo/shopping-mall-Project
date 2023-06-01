@@ -1,16 +1,16 @@
-![](https://github.com/SimDaeHo/shopping-mall-Project/assets/116733236/5e9a05b3-6d01-4b84-b290-885c555438b8)
+![](https://github.com/SimDaeHo/shopping-mall-Project/assets/116733236/667a85a8-8a44-4808-9fce-62ec15130c67)
 
 ### 🌱프로젝트명 : Shoppy
 
 - 쇼핑몰 웹사이트
 
-![](https://github.com/SimDaeHo/shopping-mall-Project/assets/116733236/29785ca5-47ec-42c2-abe8-ac07bbe622ca)
+![](https://github.com/SimDaeHo/shopping-mall-Project/assets/116733236/34ff7783-586f-42a6-9e93-2ba78d014dcb)
 
 ---
 
 💙[사이트](https://shopping-mall-project-lovat.vercel.app/)
 
-🗂 [포트폴리오](https://regal-hunter-2f7.notion.site/Instagram-26674afbbff2497fa40574737acd7987)
+🗂 [포트폴리오](https://regal-hunter-2f7.notion.site/Shoppy-6cc4bf0c4eba4cdd87a3592daa96dbda)
 
 💻 [시연 영상](https://youtu.be/PIYwlstUXBk)
 
